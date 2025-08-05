@@ -24,7 +24,9 @@ python workmate_test2.py --file logs1.log logs2.log --report average --date 2025
 ```
 
 --file — один или несколько файлов с логами в формате JSON (по одной записи на строку)
+
 --report — тип отчёта
+
 --date — (необязательно) фильтр по дате
 
 ## Тесты
